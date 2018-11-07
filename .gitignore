@@ -1,0 +1,12 @@
+# ignore everything in the root except the "wp-content" directory.
+/*
+!wp-content/
+
+# ignore all files starting with .
+.*
+
+# track this file .gitignore (i.e. do NOT ignore it)
+!.gitignore
+
+# track these themes
+!wp-content/themes/pbit/
