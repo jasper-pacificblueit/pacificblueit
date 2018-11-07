@@ -1,12 +1,17 @@
-# ignore everything in the root except the "wp-content" directory.
-/*
-!wp-content/
+# Ignore everything:
+*
 
-# ignore all files starting with .
-.*
-
-# track this file .gitignore (i.e. do NOT ignore it)
+# Except for the themes directories:
 !.gitignore
-
-# track these themes
-!wp-content/themes/pbit/
+!/wp-content/
+!/wp-content/*/
+!/wp-content/*/*
+!/wp-content/*/*/*
+!/wp-content/*/*/*/*
+!/wp-content/*/*/*/*/*
+!/wp-content/*/*/*/*/*/*
+/wp-content/themes/.DS_Store
+/wp-content/themes/pbit/.DS_Store
+/wp-content/themes/pbit/css/styles.css
+/wp-content/plugins/*
+/wp-content/uploads/*
