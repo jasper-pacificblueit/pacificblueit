@@ -10,3 +10,8 @@
 !/wp-content/*/*/*/*
 !/wp-content/*/*/*/*/*
 !/wp-content/*/*/*/*/*/*
+/wp-content/themes/.DS_Store
+/wp-content/themes/pbit/.DS_Store
+/wp-content/themes/pbit/css/styles.css
+/wp-content/plugins/*
+/wp-content/uploads/*
