@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="055a0f67-7304-468d-909a-bd5ed7fef5a2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -180,24 +179,6 @@
               <item name="pacificblueit" type="b2602c69:ProjectViewProjectNode" />
               <item name="pacificblueit" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="pacificblueit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pacificblueit" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="pacificblueit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pacificblueit" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="pacificblueit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="pacificblueit" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pbit" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -233,12 +214,12 @@
       <updated>1541572032336</updated>
       <workItem from="1541572035129" duration="4347000" />
       <workItem from="1541578474999" duration="1581000" />
-      <workItem from="1541583601653" duration="1162000" />
+      <workItem from="1541583601653" duration="1276000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7090000" />
+    <option name="totallyTimeSpent" value="7204000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
