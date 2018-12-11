@@ -28,16 +28,56 @@
 		<!-- wrapper -->
 		<div class="wrapper">
 
+			<!-- Nav Section start -->
+			<header id="masthead" class="clearfix pos-top">
+				<div class="container">
+					<div class="nav-container">
+						<nav class="navbar navbar-expand-lg navbar-light">
+							<a class="navbar-brand" href="<?php echo home_url(); ?>"><div class="nav-logo" style="background-image:url(<?php echo get_template_directory_uri(); ?>/img/pbit-logo.png);"></div></a>
+							<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+								<span class="navbar-toggler-icon"></span>
+							</button>
+
+							<div class="collapse navbar-collapse" id="navbarSupportedContent">
+								<?php html5blank_nav(); ?>
+<!--								<ul class="navbar-nav ml-auto">-->
+<!--									<li class="nav-item active">-->
+<!--										<a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>-->
+<!--									</li>-->
+<!--									<li class="nav-item">-->
+<!--										<a class="nav-link" href="#">Why Us</a>-->
+<!--									</li>-->
+<!--									<li class="nav-item">-->
+<!--										<a class="nav-link" href="#">About</a>-->
+<!--									</li>-->
+<!--									<li class="nav-item">-->
+<!--										<a class="nav-link" href="#">Services</a>-->
+<!--									</li>-->
+<!--									<li class="nav-item">-->
+<!--										<a class="nav-link" href="#">Workplace</a>-->
+<!--									</li>-->
+<!--									<li class="nav-item">-->
+<!--										<a class="nav-link" href="#">Contact Us</a>-->
+<!--									</li>-->
+<!--								</ul>-->
+							</div>
+						</nav>
+					</div>
+				</div>
+
+			</header>
+
+			<!-- Nav Section   end -->
+
 			<!-- header -->
 			<header class="header clear" role="banner">
 
 					<!-- logo -->
-					<div class="logo">
-						<a href="<?php echo home_url(); ?>">
-							<!-- svg logo - toddmotto.com/mastering-svg-use-for-a-retina-web-fallbacks-with-png-script -->
-							<img src="<?php echo get_template_directory_uri(); ?>/img/logo.svg" alt="Logo" class="logo-img">
-						</a>
-					</div>
+<!--					<div class="logo">-->
+<!--						<a href="--><?php //echo home_url(); ?><!--">-->
+<!--							<img src="--><?php //echo get_template_directory_uri(); ?><!--/img/logo.svg" alt="Logo" class="logo-img">-->
+<!--						</a>-->
+<!--					</div>-->
 					<!-- /logo -->
 
 					<!-- nav -->
